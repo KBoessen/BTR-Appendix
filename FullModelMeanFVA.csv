@@ -1,0 +1,56 @@
+subSystem,GroupCount,mean_vmin,mean_vmax
+"Acyl-CoA hydrolysis",2,0,0.0016273492224308
+"Alanine, aspartate and glutamate metabolism",12,4.3800741508216,72.7831660475098
+"Amino sugar and nucleotide sugar metabolism",10,0.77943857766919,0.77945469110646
+"Aminoacyl-tRNA biosynthesis",20,20.6859126231739,20.6859129056732
+"Arginine and proline metabolism",12,18.7400731479201,199.256717628045
+"Ascorbate and aldarate metabolism",1,0,1000
+"Biopterin metabolism",1,21.482986601076,31.3208392570058
+"Butanoate metabolism",1,0,318.476841361205
+"Cysteine and methionine metabolism",8,1.88141265883685,2.33058182120845
+"Eicosanoid metabolism",1,0,0.0176026781472201
+"Exchange/demand reactions",23,108.74187976896,424.02459066324
+"Fatty acid activation (cytosolic)",1,999.999976980804,1000
+"Fatty acid biosynthesis",1,0.0032086600524,0.00323167924859291
+"Fatty acid oxidation",2,0,1000
+"Folate metabolism",7,3.97657501648536,248.687980745088
+"Fructose and mannose metabolism",2,0,2.30191961350101e-05
+"Galactose metabolism",2,15.9203628547122,16.096213976684
+"Glutathione metabolism",6,15.7323980439302,223.284678486232
+"Glycerolipid metabolism",1,0,0.620805970232622
+"Glycerophospholipid metabolism",21,0.702676590526403,1.16758991962714
+"Glycine, serine and threonine metabolism",10,0,119.008957657786
+"Glycolysis / Gluconeogenesis",17,147.032390655717,367.647287059465
+"Histidine metabolism",3,0,20.1099358034157
+"Inositol phosphate metabolism",13,0,2.03631348609448e-05
+"Isolated",6,0,1.72643970029658e-05
+"Miscellaneous",3,0.0010695533508,551.634573229278
+"Nicotinate and nicotinamide metabolism",8,0.00281048394083072,0.00323170825977463
+"Nucleotide metabolism",11,105.173870087714,179.287712228728
+"Oxidative phosphorylation",5,245.187379862207,721.06204851186
+"Pentose and glucuronate interconversions",2,0,902.345589386653
+"Pentose phosphate pathway",7,41.8593789017144,470.838291641514
+"Phenylalanine, tyrosine and tryptophan biosynthesis",2,3.6449874420135,6.10445059606452
+"Porphyrin metabolism",8,0.0064173201048,187.506417320142
+"Prostaglandin biosynthesis",3,0,0.0176026781472201
+"Protein assembly",2,0,1.52085577004782e-08
+"Protein degradation",2,0,1.52085577004782e-08
+"Purine metabolism",18,5.66793184102831,173.465012041875
+"Pyrimidine metabolism",11,17.6681562883503,90.1562958213716
+"Pyruvate metabolism",11,18.102384479703,164.811582363365
+"ROS detoxification",4,0.00280641498786,133.862509374428
+"Retinol metabolism",32,0.00260257982028,31.2525023092081
+"Riboflavin metabolism",3,0.00213910670163387,277.000976918154
+"Serotonin and melatonin biosynthesis",2,14.5752375330012,19.4941638830286
+"Sphingolipid metabolism",8,47.5483430994683,130.902276530003
+"Starch and sucrose metabolism",8,3.93887028254593,5.93806627988639
+"Steroid metabolism",1,0.00960427907472,0.00960427912999083
+"Thiamine metabolism",3,0.0010695533508,0.00108489948763596
+"Transport reactions",111,25.4017897830788,364.608912007459
+"Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism",12,28.3450786872641,484.728280620889
+"Tryptophan metabolism",1,0,318.476841361205
+"Tyrosine metabolism",2,0,825.842491097619
+"Valine, leucine, and isoleucine metabolism",4,0.0144389702358,1.24417053685629
+"Vitamin B12 metabolism",3,0.002673883377,0.0026738833923877
+"Vitamin D metabolism",16,0.00229953970422,0.00229953971745342
+"Vitamin E metabolism",15,0.0032086600524,0.00320866007086524
